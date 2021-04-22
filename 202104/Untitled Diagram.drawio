@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-22T14:45:02.412Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="pWWHGe-M_l6QU3OaD1bf" version="14.6.5" type="github" pages="4">
+<mxfile modified="2021-04-22T14:45:16.314Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="F_DgSJHSppaGucA6XrU4" version="14.6.5" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="AWSインフラ">
     <mxGraphModel dx="1678" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -301,20 +301,11 @@
         <mxCell id="02jdGtB6pUps8Tb9BSaS-84" value="管理者ユーザ作成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
           <mxGeometry x="837" y="410" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02jdGtB6pUps8Tb9BSaS-85" value="検証環境構築：¥40,000&lt;br&gt;本番環境構築：¥40,000&lt;br&gt;&lt;br&gt;※ オプション&lt;br&gt;&amp;nbsp; &amp;nbsp;ログ保管: ¥10,000&lt;br&gt;　基本監視：¥25,000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="170" y="490" width="210" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="02jdGtB6pUps8Tb9BSaS-86" value="基本機能開発：¥40,000&lt;br&gt;AWS機能開発&lt;br&gt;&amp;nbsp; &amp;nbsp;コンフィグ：¥15,000&lt;br&gt;&amp;nbsp; &amp;nbsp;認証: ¥25,000&lt;br&gt;&amp;nbsp; &amp;nbsp;メール送信: ¥20,000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="160" y="50" width="210" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="02jdGtB6pUps8Tb9BSaS-87" value="オプション&lt;br&gt;ログ保管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
           <mxGeometry x="440" y="540" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="02jdGtB6pUps8Tb9BSaS-88" value="オプション&lt;br&gt;監視" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
           <mxGeometry x="590" y="540" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="02jdGtB6pUps8Tb9BSaS-89" value="商用向けサポート&lt;br&gt;〜 ¥4,000 / 作業工数" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="790" y="110" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
