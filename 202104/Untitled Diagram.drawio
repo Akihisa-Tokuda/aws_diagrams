@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-22T14:13:21.916Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="EKp41EijrqCwIO7CJrkL" version="14.6.5" type="github" pages="3">
+<mxfile modified="2021-04-22T14:45:02.412Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="pWWHGe-M_l6QU3OaD1bf" version="14.6.5" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="AWSインフラ">
     <mxGraphModel dx="1678" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -162,157 +162,159 @@
       <root>
         <mxCell id="JOoWyy5x1_Qr-kcDVw4i-0" />
         <mxCell id="JOoWyy5x1_Qr-kcDVw4i-1" parent="JOoWyy5x1_Qr-kcDVw4i-0" />
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="770" y="30" width="450" height="420" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="20" y="470" width="740" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="10" y="460" width="740" height="420" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="780" y="40" width="450" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="10" y="30" width="740" height="420" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="20" y="40" width="740" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="CHJyB7w0zbwW_o5KrQoM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="-yUWa9QbqjSENTUcooc1-0" target="CHJyB7w0zbwW_o5KrQoM-1">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-49" target="02jdGtB6pUps8Tb9BSaS-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-yUWa9QbqjSENTUcooc1-0" value="PJ作成&lt;br&gt;pom作成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="20" y="212.5" width="110" height="40" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-49" value="PJ作成&lt;br&gt;pom作成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="30" y="222.5" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="-yUWa9QbqjSENTUcooc1-1" target="nH873Nf2mIsnwPDf9rVb-0">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-51" target="02jdGtB6pUps8Tb9BSaS-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-yUWa9QbqjSENTUcooc1-1" value="AWS関連機能&lt;br&gt;環境コンフィグレーション" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="440" y="180" width="130" height="40" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-51" value="AWS関連機能&lt;br&gt;環境コンフィグレーション" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="450" y="190" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="CHJyB7w0zbwW_o5KrQoM-0" target="nH873Nf2mIsnwPDf9rVb-0">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-53" target="02jdGtB6pUps8Tb9BSaS-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CHJyB7w0zbwW_o5KrQoM-0" value="画面&lt;br&gt;機能開発" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="440" y="80" width="130" height="40" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-53" value="画面&lt;br&gt;機能開発" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="450" y="90" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CHJyB7w0zbwW_o5KrQoM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="CHJyB7w0zbwW_o5KrQoM-1" target="-yUWa9QbqjSENTUcooc1-1">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-58" target="02jdGtB6pUps8Tb9BSaS-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CHJyB7w0zbwW_o5KrQoM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="CHJyB7w0zbwW_o5KrQoM-1" target="CHJyB7w0zbwW_o5KrQoM-0">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-58" target="02jdGtB6pUps8Tb9BSaS-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVO8rQ0lMXGptPPaA7xo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="CHJyB7w0zbwW_o5KrQoM-1" target="bVO8rQ0lMXGptPPaA7xo-0">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-58" target="02jdGtB6pUps8Tb9BSaS-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xGJRjpbDOQVn5tF-ilpJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="CHJyB7w0zbwW_o5KrQoM-1" target="xGJRjpbDOQVn5tF-ilpJ-0">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-58" target="02jdGtB6pUps8Tb9BSaS-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JmlVJkYPAzuJ5IgTfQA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="CHJyB7w0zbwW_o5KrQoM-1" target="8JmlVJkYPAzuJ5IgTfQA-0">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-58" value="基本機能開発&lt;br&gt;spring boot&lt;br&gt;画面サンプル&lt;br&gt;database 接続" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="200" y="215" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-60" target="02jdGtB6pUps8Tb9BSaS-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CHJyB7w0zbwW_o5KrQoM-1" value="基本機能開発&lt;br&gt;spring boot&lt;br&gt;database 接続" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="190" y="205" width="130" height="55" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-60" value="AWS関連機能&lt;br&gt;認証機能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="450" y="260" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="bVO8rQ0lMXGptPPaA7xo-0" target="nH873Nf2mIsnwPDf9rVb-0">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-62" target="02jdGtB6pUps8Tb9BSaS-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bVO8rQ0lMXGptPPaA7xo-0" value="AWS関連機能&lt;br&gt;認証機能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="440" y="250" width="130" height="40" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-62" value="AWS関連機能&lt;br&gt;メール送信機能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="450" y="320" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="xGJRjpbDOQVn5tF-ilpJ-0" target="nH873Nf2mIsnwPDf9rVb-0">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-64" target="02jdGtB6pUps8Tb9BSaS-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xGJRjpbDOQVn5tF-ilpJ-0" value="AWS関連機能&lt;br&gt;ログ出力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="440" y="380" width="130" height="40" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-64" value="機能結合&lt;br&gt;検証環境でAWS上で検証します" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="837" y="222.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="8JmlVJkYPAzuJ5IgTfQA-0" target="nH873Nf2mIsnwPDf9rVb-0">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-65" value="アプリケーション開発" style="text;html=1;strokeColor=none;fillColor=#6EFF9E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-66" value="AWSインフラ構築" style="text;html=1;strokeColor=none;fillColor=#6EFF9E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="40" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-69" target="02jdGtB6pUps8Tb9BSaS-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8JmlVJkYPAzuJ5IgTfQA-0" value="AWS関連機能&lt;br&gt;メール送信機能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="440" y="310" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="nH873Nf2mIsnwPDf9rVb-0" target="nH873Nf2mIsnwPDf9rVb-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-0" value="機能結合&lt;br&gt;検証環境でAWS上で検証します" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="827" y="212.5" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-7" value="アプリケーション開発" style="text;html=1;strokeColor=none;fillColor=#6EFF9E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="20" y="40" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-8" value="AWSインフラ構築" style="text;html=1;strokeColor=none;fillColor=#6EFF9E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="30" y="480" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="nH873Nf2mIsnwPDf9rVb-10" target="nH873Nf2mIsnwPDf9rVb-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="nH873Nf2mIsnwPDf9rVb-10" target="nH873Nf2mIsnwPDf9rVb-27">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-69" target="02jdGtB6pUps8Tb9BSaS-82">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="640" />
-              <mxPoint x="190" y="760" />
+              <mxPoint x="200" y="650" />
+              <mxPoint x="200" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-10" value="AWSアカウント作成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="30" y="620" width="130" height="40" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-69" value="AWSアカウント作成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="40" y="630" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="nH873Nf2mIsnwPDf9rVb-11" target="nH873Nf2mIsnwPDf9rVb-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="nH873Nf2mIsnwPDf9rVb-11">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-72" target="02jdGtB6pUps8Tb9BSaS-78">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="398" y="418" as="targetPoint" />
+            <mxPoint x="410" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.948;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-72" target="02jdGtB6pUps8Tb9BSaS-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="408" y="427.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="640" />
-              <mxPoint x="360" y="418" />
+              <mxPoint x="390" y="650" />
+              <mxPoint x="390" y="368" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-11" value="検証用環境作成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="230" y="620" width="100" height="40" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-72" value="検証用環境作成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="240" y="630" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-12" value="本番システムリリース" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="1020" y="212.5" width="130" height="40" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-73" value="本番システムリリース" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="1030" y="222.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-14" value="テストリリース" style="text;html=1;strokeColor=none;fillColor=#6EFF9E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="780" y="40" width="160" height="60" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-74" value="テストリリース" style="text;html=1;strokeColor=none;fillColor=#6EFF9E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="790" y="50" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="nH873Nf2mIsnwPDf9rVb-16" target="nH873Nf2mIsnwPDf9rVb-21">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-75" value="AWS機能開発" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeColor=#73FF85;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="410" y="150" width="200" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-78" target="02jdGtB6pUps8Tb9BSaS-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-16" value="AWSシステムリリース方法作成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="400" y="620" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-18" value="AWS機能開発" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeColor=#73FF85;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="400" y="140" width="200" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="nH873Nf2mIsnwPDf9rVb-21" target="nH873Nf2mIsnwPDf9rVb-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ynoEroG03zLFuJm_GgQG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" target="ynoEroG03zLFuJm_GgQG-0">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" target="02jdGtB6pUps8Tb9BSaS-84">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="650" as="sourcePoint" />
+            <mxPoint x="700" y="660" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="790" y="650" />
-              <mxPoint x="790" y="430" />
+              <mxPoint x="800" y="660" />
+              <mxPoint x="800" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-21" value="本番環境構築" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="580" y="620" width="110" height="40" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-78" value="本番環境構築" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="590" y="630" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="nH873Nf2mIsnwPDf9rVb-23" target="nH873Nf2mIsnwPDf9rVb-12">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-80" target="02jdGtB6pUps8Tb9BSaS-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-23" value="本番アプリケーションリリース" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="830" y="350" width="110" height="40" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-80" value="本番アプリケーションリリース" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="840" y="360" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="nH873Nf2mIsnwPDf9rVb-27" target="nH873Nf2mIsnwPDf9rVb-21">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-82" target="02jdGtB6pUps8Tb9BSaS-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nH873Nf2mIsnwPDf9rVb-27" value="ドメイン購入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="400" y="740" width="110" height="40" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-82" value="ドメイン購入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="380" y="810" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ynoEroG03zLFuJm_GgQG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="ynoEroG03zLFuJm_GgQG-0" target="nH873Nf2mIsnwPDf9rVb-12">
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="JOoWyy5x1_Qr-kcDVw4i-1" source="02jdGtB6pUps8Tb9BSaS-84" target="02jdGtB6pUps8Tb9BSaS-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ynoEroG03zLFuJm_GgQG-0" value="管理者ユーザ作成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
-          <mxGeometry x="827" y="400" width="110" height="40" as="geometry" />
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-84" value="管理者ユーザ作成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="837" y="410" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-85" value="検証環境構築：¥40,000&lt;br&gt;本番環境構築：¥40,000&lt;br&gt;&lt;br&gt;※ オプション&lt;br&gt;&amp;nbsp; &amp;nbsp;ログ保管: ¥10,000&lt;br&gt;　基本監視：¥25,000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="170" y="490" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-86" value="基本機能開発：¥40,000&lt;br&gt;AWS機能開発&lt;br&gt;&amp;nbsp; &amp;nbsp;コンフィグ：¥15,000&lt;br&gt;&amp;nbsp; &amp;nbsp;認証: ¥25,000&lt;br&gt;&amp;nbsp; &amp;nbsp;メール送信: ¥20,000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="160" y="50" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-87" value="オプション&lt;br&gt;ログ保管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="440" y="540" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-88" value="オプション&lt;br&gt;監視" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="590" y="540" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02jdGtB6pUps8Tb9BSaS-89" value="商用向けサポート&lt;br&gt;〜 ¥4,000 / 作業工数" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="JOoWyy5x1_Qr-kcDVw4i-1">
+          <mxGeometry x="790" y="110" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -372,6 +374,168 @@
         </mxCell>
         <mxCell id="BpHrgHQk2M3VAKT0A1Js-18" value="SNS" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="Gvgvogn2YgQJAj9S_S-X-1">
           <mxGeometry x="470" y="100" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="m78zcHfvkgzI7ze3z31Z" name="お見積り">
+    <mxGraphModel dx="2037" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="lXcOk7T3pigZ-9mIBoSL-0" />
+        <mxCell id="lXcOk7T3pigZ-9mIBoSL-1" parent="lXcOk7T3pigZ-9mIBoSL-0" />
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="10" y="460" width="740" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="770" y="30" width="450" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="10" y="30" width="740" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-4" target="AH2gCUvHz79Ud_pBaJfy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-4" value="PJ作成&lt;br&gt;pom作成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="20" y="212.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-6" target="AH2gCUvHz79Ud_pBaJfy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-6" value="AWS関連機能&lt;br&gt;環境コンフィグレーション" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="440" y="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-8" target="AH2gCUvHz79Ud_pBaJfy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-8" value="画面&lt;br&gt;機能開発" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="440" y="80" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-14" target="AH2gCUvHz79Ud_pBaJfy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-14" target="AH2gCUvHz79Ud_pBaJfy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-14" target="AH2gCUvHz79Ud_pBaJfy-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-14" target="AH2gCUvHz79Ud_pBaJfy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-14" value="基本機能開発&lt;br&gt;spring boot&lt;br&gt;画面サンプル&lt;br&gt;database 接続" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="190" y="205" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-16" target="AH2gCUvHz79Ud_pBaJfy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-16" value="AWS関連機能&lt;br&gt;認証機能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="440" y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-20" target="AH2gCUvHz79Ud_pBaJfy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-20" value="AWS関連機能&lt;br&gt;メール送信機能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="440" y="310" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-22" target="AH2gCUvHz79Ud_pBaJfy-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-22" value="機能結合&lt;br&gt;検証環境でAWS上で検証します" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="827" y="212.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-23" value="アプリケーション開発" style="text;html=1;strokeColor=none;fillColor=#6EFF9E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-24" value="AWSインフラ構築" style="text;html=1;strokeColor=none;fillColor=#6EFF9E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="30" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-27" target="AH2gCUvHz79Ud_pBaJfy-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-27" target="AH2gCUvHz79Ud_pBaJfy-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="640" />
+              <mxPoint x="190" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-27" value="AWSアカウント作成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="30" y="620" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-30" target="AH2gCUvHz79Ud_pBaJfy-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.948;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-30" target="AH2gCUvHz79Ud_pBaJfy-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398" y="417.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="640" />
+              <mxPoint x="380" y="358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-30" value="検証用環境作成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="230" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-31" value="本番システムリリース" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="1020" y="212.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-32" value="テストリリース" style="text;html=1;strokeColor=none;fillColor=#6EFF9E;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="780" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-35" value="AWS機能開発" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeColor=#73FF85;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="400" y="140" width="200" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-38" target="AH2gCUvHz79Ud_pBaJfy-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" target="AH2gCUvHz79Ud_pBaJfy-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="650" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="790" y="650" />
+              <mxPoint x="790" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-38" value="本番環境構築" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="580" y="620" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-40" target="AH2gCUvHz79Ud_pBaJfy-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-40" value="本番アプリケーションリリース" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="830" y="350" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-42" target="AH2gCUvHz79Ud_pBaJfy-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-42" value="ドメイン購入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="370" y="800" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lXcOk7T3pigZ-9mIBoSL-1" source="AH2gCUvHz79Ud_pBaJfy-44" target="AH2gCUvHz79Ud_pBaJfy-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-44" value="管理者ユーザ作成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF962E;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="827" y="400" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-45" value="検証環境構築：¥70,000&lt;br&gt;本番環境構築：¥80,000&lt;br&gt;※ リリースフロー含む&lt;br&gt;&lt;br&gt;※ オプション&lt;br&gt;&amp;nbsp; &amp;nbsp;ログ保管: ¥10,000&lt;br&gt;　基本監視：¥25,000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="160" y="480" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AH2gCUvHz79Ud_pBaJfy-46" value="基本機能開発：¥40,000&lt;br&gt;AWS機能開発&lt;br&gt;&amp;nbsp; &amp;nbsp;コンフィグ：¥15,000&lt;br&gt;&amp;nbsp; &amp;nbsp;認証: ¥25,000&lt;br&gt;&amp;nbsp; &amp;nbsp;メール送信: ¥20,000" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="150" y="40" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uEnElKN1226pc_Mf3LOY-0" value="オプション&lt;br&gt;ログ保管" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="430" y="530" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uEnElKN1226pc_Mf3LOY-1" value="オプション&lt;br&gt;監視" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="580" y="530" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uEnElKN1226pc_Mf3LOY-3" value="商用向けサポート&lt;br&gt;〜 ¥4,000 / 作業工数" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="lXcOk7T3pigZ-9mIBoSL-1">
+          <mxGeometry x="780" y="100" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
